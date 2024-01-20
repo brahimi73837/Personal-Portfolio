@@ -72,11 +72,11 @@ function getProjectDetails() {
             skills: "HTML, CSS, Javascript",
             repoLink: "https://github.com/brahimi73837/Malta-FAQs",
         },
-        "Lightning Web Component - Hello World": {
-            title: "Lightning Web Component - Hello World",
-            image: "./img/projects/Screenshot 2024-01-16 at 05.19.28.png",
+        "Captcha Code App": {
+            title: "Captcha Code App",
+            image: "./img/projects/captcha_bg.png",
             skills: "HTML, CSS, Javascript",
-            repoLink: "https://github.com/brahimi73837/LWC_Hello_world",
+            repoLink: "https://github.com/brahimi73837/Captcha-Code",
         },
         "Role Playing Game": {
             title: "Role Playing Game",
